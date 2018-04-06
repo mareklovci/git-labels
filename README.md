@@ -2,6 +2,10 @@
 
 This is my view on how to organise labels for issues.
 
+## Instructions
+
+It doesn't matter if you are going to use only one, or every group of labels. It is possible even to use just one, if you want. It's absolutely up to you!
+
 ## References
 
 1. [Sane GitHub labels](1)
