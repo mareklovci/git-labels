@@ -1,0 +1,14 @@
+[
+    { "name": "Type: Bug", 
+        "description": "Anything that is broken", 
+        "color": "#e11d21" },
+    { "name": "Type: Maintenance", 
+        "description": "Preserving code functionality", 
+        "color": "#fbca04" },
+    { "name": "Type: Enhancement", 
+        "description": "New feature or request", 
+        "color": "#84b6eb" },
+    { "name": "Type: Question", 
+        "description": "Further information is requested", 
+        "color": "#cc317c" }  
+]

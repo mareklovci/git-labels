@@ -1,0 +1,14 @@
+[
+    { "name": "Priority: Low", 
+        "description": "Do not hurry with this one", 
+        "color": "#009800" },
+    { "name": "Priority: Medium", 
+        "description": "Look at it when you have a moment", 
+        "color": "#fbca04" },
+    { "name": "Priority: High", 
+        "description": "Do this ASAP", 
+        "color": "#eb6420" },
+    { "name": "Priority: Critical", 
+        "description": "Do this now!", 
+        "color": "#e11d21" }
+]
