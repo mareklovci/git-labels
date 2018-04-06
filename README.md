@@ -12,8 +12,12 @@ It doesn't matter if you are going to use only one, or every group of labels. It
 2. .NET repo [labels][2]
 3. SaltStack GitHub [labels and milestones][3]
 4. Peter Wagenet's [set][4]
+5. Git [labelmaker][5]
+6. Label [packages][6]
 
 [1]: https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63
 [2]: https://github.com/dotnet/roslyn/wiki/Labels-used-for-issues
 [3]: https://docs.saltstack.com/en/latest/topics/development/labels.html
 [4]: https://github.com/wagenet/StandardIssueLabels
+[5]: https://github.com/himynameisdave/git-labelmaker
+[6]: https://github.com/jasonbellamy/git-label-packages
