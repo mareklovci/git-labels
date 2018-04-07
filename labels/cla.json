@@ -1,0 +1,8 @@
+[
+    { "name": "CLA: Signed",
+        "description": "",
+        "color": "#009800" },
+    { "name": "CLA: Unsigned",
+        "description": "",
+        "color": "#e11d21" }
+]
