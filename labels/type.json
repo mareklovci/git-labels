@@ -19,8 +19,5 @@
         "color": "" },
     { "name": "Type: Question",
         "description": "Further information is requested",
-        "color": "#cc317c" },
-    { "name": "Type: Duplicate",
-        "description": "This issue or pull request already exists",
-        "color": "" }
+        "color": "#cc317c" }
 ]
