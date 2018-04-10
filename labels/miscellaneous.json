@@ -1,11 +1,11 @@
 [
-    { "name": "Misc: First issue",
+    { "name": "Misc: First Issue",
         "description": "Good for new contributors",
-        "color": "#0e2f44" },
+        "color": "#d5c6e0" },
     { "name": "Misc: Duplicate",
         "description": "This issue or pull request already exists",
-        "color": "" },
+        "color": "#1c1f33" },
     { "name": "Misc: Invalid",
         "description": "This doesn't seem right",
-        "color": "" }
+        "color": "#e05263" }
 ]

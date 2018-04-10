@@ -1,8 +1,8 @@
 [
     { "name": "CLA: Signed",
-        "description": "",
-        "color": "#009800" },
+        "description": "CLA approved",
+        "color": "#7ea16b" },
     { "name": "CLA: Unsigned",
-        "description": "",
-        "color": "#e11d21" }
+        "description": "Not yet CLA approved",
+        "color": "#600047" }
 ]
